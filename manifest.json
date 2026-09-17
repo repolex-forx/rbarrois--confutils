@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "rbarrois",
+  "repo": "confutils",
+  "versions": [
+    {
+      "commit": "d0f52fd1c057a7c18522e10c32520c9ea3a1a55d",
+      "parsed_at": "2026-09-17T03:40:43.801430+00:00",
+      "tag": "confutils-0.3.7",
+      "filetree": "filetree/d0f52fd1c057a7c18522e10c32520c9ea3a1a55d.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/ed05aa5e2def537b6e1103da0ff27e6c9ab13f05.nq.gz",
+        "blob/3fdb112760debc7366d5fef293b7d4cd76bda8ce.nq.gz",
+        "blob/735fab5c6e7f3d6bb0ac986bb8c525d8161f540e.nq.gz",
+        "blob/fa2505de8403e7ed8d4f6c784d8ac5cada93c236.nq.gz",
+        "blob/6e12217bcdb78c699267249459cbf913606109ec.nq.gz",
+        "blob/d88e214538a71f936762bff41c94a1184c4f63a4.nq.gz",
+        "blob/ea709b2b77fb095a7cbcd0dea408351035344e80.nq.gz",
+        "blob/5046a7002fdc8735372ce845c351d1d8c620b18b.nq.gz",
+        "blob/f69cb1a8a3b9a6936b577770afc36cd7ebf83702.nq.gz",
+        "blob/8b137891791fe96927ad78e64b0aad7bded08bdc.nq.gz",
+        "blob/a25c9d0f559a41e5fc3facb3e421f71fab5a632e.nq.gz",
+        "blob/67fdad9dfa1732ff7d9aae34e38e0b06396d417a.nq.gz",
+        "blob/2bc2c483f0f6230ef096683361b8431cfa31d4a6.nq.gz",
+        "blob/a741df7cd5dfe19527cd5f62c733f7257e42a8b8.nq.gz",
+        "blob/af93217f2a891bcfdf07d4f74ed11cd8c85d5fd6.nq.gz",
+        "blob/1cd03e189a560b4f83bc5a868a874985fb76c6e5.nq.gz",
+        "blob/8cfa3ff2a56bd4467f8ded0d02acfba7b47ce496.nq.gz",
+        "blob/100b93820ade4c16225673b4ca62bb3ade63c313.nq.gz",
+        "blob/01f0fe4408f88ac7d8dd3963d6e54a568ab74a71.nq.gz",
+        "blob/b00503e2c0c385b2d62d59985a1cb67301bfc460.nq.gz",
+        "blob/64fe2966aba53a86a1293619ca7222e0e2f5fe38.nq.gz",
+        "blob/ffbf9e65639e12ae175fbc827131b862aa246943.nq.gz",
+        "blob/504d59e853ff999818257343ec0f659ff637a4b8.nq.gz",
+        "blob/a2c21cc4bc46b0c483b70b71837a00c3fc92483f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
